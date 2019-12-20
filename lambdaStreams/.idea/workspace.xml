@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8655443e-9819-47bd-895a-2b05a1f37098" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RhIijFnUnbx53TWWJb4V3yZbET" />
+  <component name="PropertiesComponent">
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GenericsDemo">
+    <configuration name="GenericsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.GenericsDemo" />
+      <module name="lambdaStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambdaStreams" />
+      <option name="PACKAGE_NAME" value="LambdasStreamsTests" />
+      <option name="MAIN_CLASS_NAME" value="LambdasStreamsTests.StreamTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTests.filterOutAdults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambdaStreams" />
+      <option name="PACKAGE_NAME" value="LambdasStreamsTests" />
+      <option name="MAIN_CLASS_NAME" value="LambdasStreamsTests.StreamTests" />
+      <option name="METHOD_NAME" value="filterOutAdults" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTests.getAverageAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambdaStreams" />
+      <option name="PACKAGE_NAME" value="LambdasStreamsTests" />
+      <option name="MAIN_CLASS_NAME" value="LambdasStreamsTests.StreamTests" />
+      <option name="METHOD_NAME" value="getAverageAge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTests.printOutNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambdaStreams" />
+      <option name="PACKAGE_NAME" value="LambdasStreamsTests" />
+      <option name="MAIN_CLASS_NAME" value="LambdasStreamsTests.StreamTests" />
+      <option name="METHOD_NAME" value="printOutNames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenericsDemo" />
+        <item itemvalue="JUnit.StreamTests.printOutNames" />
+        <item itemvalue="JUnit.StreamTests" />
+        <item itemvalue="JUnit.StreamTests.getAverageAge" />
+        <item itemvalue="JUnit.StreamTests.filterOutAdults" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8655443e-9819-47bd-895a-2b05a1f37098" name="Default Changelist" comment="" />
+      <created>1570113029870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570113029870</updated>
+    </task>
+    <servers />
+  </component>
+</project>

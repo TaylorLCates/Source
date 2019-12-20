@@ -1,0 +1,44 @@
+body{ 
+    background-color: lightslategray;
+}  
+
+.wrapper {
+    display: flex; 
+    align-items: stretch;
+}   
+
+.breathe{
+    padding: 10px;
+} 
+
+.sidebar { 
+    min-height: 100vh; 
+    background-color: lightgray; 
+    
+}   
+
+.listitems{
+    font-family: cursive; 
+    align-items: center;
+    padding: 10px; 
+    /* border-bottom-style: groove;
+    border-bottom-color: black; 
+    border-bottom-width: 5px;  */
+} 
+
+.logo img{
+    width: 120px; 
+    padding-top: 10px; 
+
+}  
+
+.formsbox{
+    background-color: black;
+} 
+
+#left-side, #right-side{
+    padding: 0px; 
+    margin: 0px; 
+
+}
+
